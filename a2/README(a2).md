@@ -39,7 +39,7 @@ This project presents a **complete pipeline** for analyzing process behavior usi
 
 2. Launch notebook:
 ```bash
-jupyter notebook process_mining_complete.ipynb
+jupyter notebook a2.ipynb
 ```
 
 3. Run all cells to perform full analysis.
